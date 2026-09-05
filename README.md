@@ -18,3 +18,5 @@ Q144 Binary Tree Preorder Traversal: https://leetcode.com/problems/binary-tree-p
 Q145 Binary Tree Postorder Traversal: https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/2130900276/
 <br>
 Q5 Longest Palindromic Substring: https://leetcode.com/problems/longest-palindromic-substring/submissions/2131992403/ (Getting TLE)
+<br>
+Q3904 Smallest Stable Index II: https://leetcode.com/problems/smallest-stable-index-ii/submissions/2131954566/
