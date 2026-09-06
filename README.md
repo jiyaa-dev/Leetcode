@@ -22,3 +22,5 @@ Q5 Longest Palindromic Substring: https://leetcode.com/problems/longest-palindro
 Q3904 Smallest Stable Index II: https://leetcode.com/problems/smallest-stable-index-ii/submissions/2131954566/
 <br>
 Q102 Binary Tree Level Order Traversal: https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/2133180805/
+<br>
+Q104 Maximum Depth of Binary Tree: https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/2133219268/
