@@ -24,3 +24,7 @@ Q3904 Smallest Stable Index II: https://leetcode.com/problems/smallest-stable-in
 Q102 Binary Tree Level Order Traversal: https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/2133180805/
 <br>
 Q104 Maximum Depth of Binary Tree: https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/2133219268/
+<br>
+Q100 Same Tree: https://leetcode.com/problems/same-tree/submissions/2133729983/
+<br>
+Q101 Symmetric Tree: https://leetcode.com/problems/symmetric-tree/submissions/2133769849/
