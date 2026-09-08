@@ -31,4 +31,4 @@ Q101 Symmetric Tree: https://leetcode.com/problems/symmetric-tree/submissions/21
 <br>
 Q226 Invert Binary Tree: https://leetcode.com/problems/invert-binary-tree/submissions/2135484023/
 <br>
-Q112 Path Sum
+Q112 Path Sum: https://leetcode.com/problems/path-sum/submissions/2135529418/
