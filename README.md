@@ -28,3 +28,5 @@ Q104 Maximum Depth of Binary Tree: https://leetcode.com/problems/maximum-depth-o
 Q100 Same Tree: https://leetcode.com/problems/same-tree/submissions/2133729983/
 <br>
 Q101 Symmetric Tree: https://leetcode.com/problems/symmetric-tree/submissions/2133769849/
+<br>
+Q226 Invert Binary Tree: https://leetcode.com/problems/invert-binary-tree/submissions/2135484023/
