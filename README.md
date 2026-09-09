@@ -17,10 +17,6 @@ Q144 Binary Tree Preorder Traversal: https://leetcode.com/problems/binary-tree-p
 <br>
 Q145 Binary Tree Postorder Traversal: https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/2130900276/
 <br>
-Q5 Longest Palindromic Substring: https://leetcode.com/problems/longest-palindromic-substring/submissions/2131992403/ (Getting TLE)
-<br>
-Q3904 Smallest Stable Index II: https://leetcode.com/problems/smallest-stable-index-ii/submissions/2131954566/
-<br>
 Q102 Binary Tree Level Order Traversal: https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/2133180805/
 <br>
 Q104 Maximum Depth of Binary Tree: https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/2133219268/
@@ -38,3 +34,9 @@ Q3870 Count Commas in Range: https://leetcode.com/problems/count-commas-in-range
 Q637 Average of Levels in Binary Tree: https://leetcode.com/problems/average-of-levels-in-binary-tree/submissions/2136697375/
 <br>
 Q107 Binary Tree Order Traversal II: https://leetcode.com/problems/binary-tree-level-order-traversal-ii/submissions/2136748234/
+<h3>Miscellaneous</h3>
+Q5 Longest Palindromic Substring: https://leetcode.com/problems/longest-palindromic-substring/submissions/2131992403/ (Getting TLE)
+<br>
+Q3904 Smallest Stable Index II: https://leetcode.com/problems/smallest-stable-index-ii/submissions/2131954566/
+<br>
+Q520 Detect Capital: https://leetcode.com/problems/detect-capital/submissions/2136766776/
