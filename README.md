@@ -42,3 +42,5 @@ Q5 Longest Palindromic Substring: https://leetcode.com/problems/longest-palindro
 Q3904 Smallest Stable Index II: https://leetcode.com/problems/smallest-stable-index-ii/submissions/2131954566/
 <br>
 Q520 Detect Capital: https://leetcode.com/problems/detect-capital/submissions/2136766776/
+Q383 Ransom Note: https://leetcode.com/problems/ransom-note/submissions/2137832183/
+
