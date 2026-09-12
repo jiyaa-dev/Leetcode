@@ -48,3 +48,5 @@ Q383 Ransom Note: https://leetcode.com/problems/ransom-note/submissions/21378321
 Q389 Find the Difference: https://leetcode.com/problems/find-the-difference/submissions/2137844604/
 <br>
 Q414 Third Maximum number: https://leetcode.com/problems/third-maximum-number/submissions/2138817829/
+<br>
+Q504 Base 7: https://leetcode.com/problems/base-7/submissions/2139839476/
