@@ -38,6 +38,8 @@ Q107 Binary Tree Order Traversal II: https://leetcode.com/problems/binary-tree-l
 Q257 Binary Tree Paths: https://leetcode.com/problems/binary-tree-paths/submissions/2137781963/
 <br>
 Q103 Binary Tree Zigzag Level Order Traversal: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/2140427565/
+<br>
+Q1448 Count Good Nodes in Binary Tree: https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/2140841661/
 <h3>Miscellaneous</h3>
 Q5 Longest Palindromic Substring: https://leetcode.com/problems/longest-palindromic-substring/submissions/2131992403/ (Getting TLE)
 <br>
