@@ -40,6 +40,8 @@ Q257 Binary Tree Paths: https://leetcode.com/problems/binary-tree-paths/submissi
 Q103 Binary Tree Zigzag Level Order Traversal: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/2140427565/
 <br>
 Q1448 Count Good Nodes in Binary Tree: https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/2140841661/
+<br>
+Q129 Sum Root to Leaf Numbers: https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/2140912116/
 <h3>Miscellaneous</h3>
 Q5 Longest Palindromic Substring: https://leetcode.com/problems/longest-palindromic-substring/submissions/2131992403/ (Getting TLE)
 <br>
