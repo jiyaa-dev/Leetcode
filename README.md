@@ -36,6 +36,8 @@ Q637 Average of Levels in Binary Tree: https://leetcode.com/problems/average-of-
 Q107 Binary Tree Order Traversal II: https://leetcode.com/problems/binary-tree-level-order-traversal-ii/submissions/2136748234/
 <br>
 Q257 Binary Tree Paths: https://leetcode.com/problems/binary-tree-paths/submissions/2137781963/
+<br>
+Q103 Binary Tree Zigzag Level Order Traversal: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/2140427565/
 <h3>Miscellaneous</h3>
 Q5 Longest Palindromic Substring: https://leetcode.com/problems/longest-palindromic-substring/submissions/2131992403/ (Getting TLE)
 <br>
