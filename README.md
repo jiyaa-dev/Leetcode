@@ -42,6 +42,8 @@ Q103 Binary Tree Zigzag Level Order Traversal: https://leetcode.com/problems/bin
 Q1448 Count Good Nodes in Binary Tree: https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/2140841661/
 <br>
 Q129 Sum Root to Leaf Numbers: https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/2140912116/
+<br>
+Q98 Validate Binary Search Tree: https://leetcode.com/problems/validate-binary-search-tree/submissions/2141846974/
 <h3>Miscellaneous</h3>
 Q5 Longest Palindromic Substring: https://leetcode.com/problems/longest-palindromic-substring/submissions/2131992403/ (Getting TLE)
 <br>
