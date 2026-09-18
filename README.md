@@ -46,11 +46,12 @@ Q129 Sum Root to Leaf Numbers: https://leetcode.com/problems/sum-root-to-leaf-nu
 Q98 Validate Binary Search Tree: https://leetcode.com/problems/validate-binary-search-tree/submissions/2141846974/ OR https://leetcode.com/problems/validate-binary-search-tree/submissions/2141900346/
 <br>
 Q404 Sum of Left Leaves: https://leetcode.com/problems/sum-of-left-leaves/submissions/2143966694/
+<br>
+Q700 Search in a Binary Search Tree: https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/2145932650/
 
 <h3>Linked List</h3>
 Q141 Linked List Cycle: https://leetcode.com/problems/linked-list-cycle/submissions/2144000867/
-<br>
-Q24 Swap Nodes in Pairs: 
+
 <h3>Miscellaneous</h3>
 Q5 Longest Palindromic Substring: https://leetcode.com/problems/longest-palindromic-substring/submissions/2131992403/ (Getting TLE)
 <br>
