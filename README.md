@@ -49,9 +49,7 @@ Q404 Sum of Left Leaves: https://leetcode.com/problems/sum-of-left-leaves/submis
 <br>
 Q700 Search in a Binary Search Tree: https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/2145932650/ OR https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/2145954091/
 <br>
-Q230 Kth Smallest Element in a BST: https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/2147932568/
-<br>
-Q230 Kth Smallest Element in a BST: https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/2147943908
+Q230 Kth Smallest Element in a BST: https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/2147932568/ OR https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/2147943908
 
 <h3>Linked List</h3>
 Q141 Linked List Cycle: https://leetcode.com/problems/linked-list-cycle/submissions/2144000867/
