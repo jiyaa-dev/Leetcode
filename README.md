@@ -70,3 +70,5 @@ Q389 Find the Difference: https://leetcode.com/problems/find-the-difference/subm
 Q414 Third Maximum number: https://leetcode.com/problems/third-maximum-number/submissions/2138817829/
 <br>
 Q504 Base 7: https://leetcode.com/problems/base-7/submissions/2139839476/
+<br>
+Q231 Power of Two: https://leetcode.com/problems/power-of-two/submissions/2148941611/
