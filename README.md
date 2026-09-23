@@ -1,4 +1,4 @@
-# Leetcode Questions
+<img width="2878" height="1622" alt="image" src="https://github.com/user-attachments/assets/90bd2413-234a-4874-b657-38bce382a9b5" /># Leetcode Questions
 <h3>Sliding Window</h3>
 Q15 3Sum https://leetcode.com/problems/3sum/submissions/2126406733/
 <br>
@@ -55,6 +55,8 @@ Q501 Find Mode in Binary Search Tree: https://leetcode.com/problems/find-mode-in
 
 <h3>Linked List</h3>
 Q141 Linked List Cycle: https://leetcode.com/problems/linked-list-cycle/submissions/2144000867/
+<br>
+Q142 Linked List Cycle II: https://leetcode.com/problems/linked-list-cycle-ii/submissions/2151075015/
 
 <h3>Miscellaneous</h3>
 Q5 Longest Palindromic Substring: https://leetcode.com/problems/longest-palindromic-substring/submissions/2131992403/ (Getting TLE)
