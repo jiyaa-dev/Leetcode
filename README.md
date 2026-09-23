@@ -1,4 +1,4 @@
-<img width="2878" height="1622" alt="image" src="https://github.com/user-attachments/assets/90bd2413-234a-4874-b657-38bce382a9b5" /># Leetcode Questions
+# Leetcode Questions
 <h3>Sliding Window</h3>
 Q15 3Sum https://leetcode.com/problems/3sum/submissions/2126406733/
 <br>
