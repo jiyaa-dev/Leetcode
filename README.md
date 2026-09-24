@@ -59,6 +59,8 @@ Q141 Linked List Cycle: https://leetcode.com/problems/linked-list-cycle/submissi
 Q142 Linked List Cycle II: https://leetcode.com/problems/linked-list-cycle-ii/submissions/2151075015/
 <br>
 Q82 Remove Duplicates from Sorted List II: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/submissions/2151155760/
+<br>
+Q206 Reverse Linked List: https://leetcode.com/problems/reverse-linked-list/submissions/2152199589/
 
 <h3>Miscellaneous</h3>
 Q5 Longest Palindromic Substring: https://leetcode.com/problems/longest-palindromic-substring/submissions/2131992403/ (Getting TLE)
