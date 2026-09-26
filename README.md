@@ -52,6 +52,8 @@ Q700 Search in a Binary Search Tree: https://leetcode.com/problems/search-in-a-b
 Q230 Kth Smallest Element in a BST: https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/2147932568/ OR https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/2147943908
 <br>
 Q501 Find Mode in Binary Search Tree: https://leetcode.com/problems/find-mode-in-binary-search-tree/submissions/2147992358/
+<br>
+Q572 Subtree of Another Tree: https://leetcode.com/problems/subtree-of-another-tree/submissions/2154251086/
 
 <h3>Linked List</h3>
 Q141 Linked List Cycle: https://leetcode.com/problems/linked-list-cycle/submissions/2144000867/
