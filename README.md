@@ -86,3 +86,6 @@ Q504 Base 7: https://leetcode.com/problems/base-7/submissions/2139839476/
 Q231 Power of Two: https://leetcode.com/problems/power-of-two/submissions/2148941611/
 <br>
 Q176 Second Highest Salary: https://leetcode.com/submissions/detail/2150021767/
+
+<h3>Miscellaneous</h3>
+Q5 Longest Palindromic Substring: https://leetcode.com/problems/longest-palindromic-substring/submissions/2155168755/
