@@ -55,7 +55,7 @@ Q501 Find Mode in Binary Search Tree: https://leetcode.com/problems/find-mode-in
 <br>
 Q572 Subtree of Another Tree: https://leetcode.com/problems/subtree-of-another-tree/submissions/2154251086/
 
-<h3>Linked List</h3>
+<h3>Linked List</h3>Q
 Q141 Linked List Cycle: https://leetcode.com/problems/linked-list-cycle/submissions/2144000867/
 <br>
 Q142 Linked List Cycle II: https://leetcode.com/problems/linked-list-cycle-ii/submissions/2151075015/
@@ -86,6 +86,8 @@ Q504 Base 7: https://leetcode.com/problems/base-7/submissions/2139839476/
 Q231 Power of Two: https://leetcode.com/problems/power-of-two/submissions/2148941611/
 <br>
 Q176 Second Highest Salary: https://leetcode.com/submissions/detail/2150021767/
+<br>
+Q191 Number of 1 Bits: https://leetcode.com/problems/number-of-1-bits/submissions/2156242496/
 
-<h3>Miscellaneous</h3>
+<h3>Two Pointers</h3>
 Q5 Longest Palindromic Substring: https://leetcode.com/problems/longest-palindromic-substring/submissions/2155168755/
