@@ -54,6 +54,8 @@ Q230 Kth Smallest Element in a BST: https://leetcode.com/problems/kth-smallest-e
 Q501 Find Mode in Binary Search Tree: https://leetcode.com/problems/find-mode-in-binary-search-tree/submissions/2147992358/
 <br>
 Q572 Subtree of Another Tree: https://leetcode.com/problems/subtree-of-another-tree/submissions/2154251086/
+<br>
+Q111 Minimum Depth of Binary Tree: https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/2157311342/
 
 <h3>Linked List</h3>Q
 Q141 Linked List Cycle: https://leetcode.com/problems/linked-list-cycle/submissions/2144000867/
