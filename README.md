@@ -92,6 +92,8 @@ Q176 Second Highest Salary: https://leetcode.com/submissions/detail/2150021767/
 Q191 Number of 1 Bits: https://leetcode.com/problems/number-of-1-bits/submissions/2156242496/
 <br>
 Q177 Nth Highest Salary: https://leetcode.com/problems/nth-highest-salary/submissions/2158334543/
+<br>
+Q178 Rank Scores: https://leetcode.com/problems/rank-scores/submissions/2159424528/
 
 <h3>Two Pointers</h3>
 Q5 Longest Palindromic Substring: https://leetcode.com/problems/longest-palindromic-substring/submissions/2155168755/
