@@ -71,3 +71,4 @@
 | 177 | Nth Highest Salary | [Submission](https://leetcode.com/problems/nth-highest-salary/submissions/2158334543/) | |
 | 178 | Rank Scores | [Submission](https://leetcode.com/problems/rank-scores/submissions/2159424528/) | |
 | 181 | Employees Earning More Than Their Managers | [Submission](https://leetcode.com/problems/employees-earning-more-than-their-managers/submissions/2160226625/) | |
+| 182 | Duplicate Emails | [Submission](https://leetcode.com/problems/duplicate-emails/submissions/2161232876/) | |
