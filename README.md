@@ -74,3 +74,4 @@
 | 182 | Duplicate Emails | [Submission](https://leetcode.com/problems/duplicate-emails/submissions/2161232876/) | |
 | 183 | Customers Who Never Order | [Submission](https://leetcode.com/problems/customers-who-never-order/submissions/2162286775/) | |
 | 196 | Delete Duplicate Emails | [Submission](https://leetcode.com/problems/delete-duplicate-emails/submissions/2163281082/) | |
+| 197 | Rising Temperature | [Submission](https://leetcode.com/problems/rising-temperature/submissions/2164498782/) | |
