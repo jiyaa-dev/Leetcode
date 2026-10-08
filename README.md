@@ -76,3 +76,4 @@
 | 196 | Delete Duplicate Emails | [Submission](https://leetcode.com/problems/delete-duplicate-emails/submissions/2163281082/) | |
 | 197 | Rising Temperature | [Submission](https://leetcode.com/problems/rising-temperature/submissions/2164498782/) | |
 | 584 | Find Customer Referee | [Submission](https://leetcode.com/problems/find-customer-referee/submissions/2165594850/) | |
+| 511 | Find Customer Referee | [Submission](https://leetcode.com/problems/game-play-analysis-i/submissions/2166623781/) | |
