@@ -77,3 +77,4 @@
 | 197 | Rising Temperature | [Submission](https://leetcode.com/problems/rising-temperature/submissions/2164498782/) | |
 | 584 | Find Customer Referee | [Submission](https://leetcode.com/problems/find-customer-referee/submissions/2165594850/) | |
 | 511 | Find Customer Referee | [Submission](https://leetcode.com/problems/game-play-analysis-i/submissions/2166623781/) | |
+| 577 | Employee Bonus | [Submission](https://leetcode.com/problems/employee-bonus/submissions/2167391236/) | |
