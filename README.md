@@ -79,3 +79,4 @@
 | 511 | Find Customer Referee | [Submission](https://leetcode.com/problems/game-play-analysis-i/submissions/2166623781/) | |
 | 577 | Employee Bonus | [Submission](https://leetcode.com/problems/employee-bonus/submissions/2167391236/) | |
 | 586 | Customer Placing the Largest Number of Orders | [Submission](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/submissions/2168407072/) | |
+| 1075 | Project Employees I | [Submission](https://leetcode.com/problems/project-employees-i/submissions/2169491648/) | |
