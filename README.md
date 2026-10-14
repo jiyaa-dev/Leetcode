@@ -82,3 +82,4 @@
 | 1075 | Project Employees I | [Submission](https://leetcode.com/problems/project-employees-i/submissions/2169491648/) | |
 | 607 | Sales Person | [Submission](https://leetcode.com/problems/sales-person/submissions/2170348853/) | |
 | 1174 | Immediate Food Delivery II | [Submission](https://leetcode.com/problems/immediate-food-delivery-ii/submissions/2171409444/) | |
+| 1251 | Average Selling Price | [Submission](https://leetcode.com/problems/average-selling-price/submissions/2172299468/) | |
