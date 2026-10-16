@@ -84,3 +84,4 @@
 | 1174 | Immediate Food Delivery II | [Submission](https://leetcode.com/problems/immediate-food-delivery-ii/submissions/2171409444/) | |
 | 1251 | Average Selling Price | [Submission](https://leetcode.com/problems/average-selling-price/submissions/2172299468/) | |
 | 1148 | Article Views I | [Submission](https://leetcode.com/problems/article-views-i/submissions/2173153286/) | |
+| 595 | Big Countries | [Submission](https://leetcode.com/problems/big-countries/submissions/2173964990/) | |
