@@ -86,3 +86,4 @@
 | 1148 | Article Views I | [Submission](https://leetcode.com/problems/article-views-i/submissions/2173153286/) | |
 | 595 | Big Countries | [Submission](https://leetcode.com/problems/big-countries/submissions/2173964990/) | |
 | 1327 | Big Countries | [Submission](https://leetcode.com/problems/list-the-products-ordered-in-a-period/submissions/2174669655/) | |
+| 1158 | Market Analysis I | [Submission](https://leetcode.com/problems/market-analysis-i/submissions/2175433779/) | |
