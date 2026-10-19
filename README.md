@@ -36,6 +36,7 @@
 | 501 | Find Mode in Binary Search Tree | [Submission](https://leetcode.com/problems/find-mode-in-binary-search-tree/submissions/2147992358/) |
 | 572 | Subtree of Another Tree | [Submission](https://leetcode.com/problems/subtree-of-another-tree/submissions/2154251086/) |
 | 111 | Minimum Depth of Binary Tree | [Submission](https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/2157311342/) |
+| 653 | Two Sum IV - Input is a BST | [Submission](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/submissions/2176354505/) |
 
 ## Linked List
 
