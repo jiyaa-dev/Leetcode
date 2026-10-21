@@ -90,3 +90,4 @@
 | 595 | Big Countries | [Submission](https://leetcode.com/problems/big-countries/submissions/2173964990/) | |
 | 1327 | Big Countries | [Submission](https://leetcode.com/problems/list-the-products-ordered-in-a-period/submissions/2174669655/) | |
 | 1158 | Market Analysis I | [Submission](https://leetcode.com/problems/market-analysis-i/submissions/2175433779/) | |
+| 350 | Intersection of Two Arrays II | [Submission](https://leetcode.com/problems/intersection-of-two-arrays-ii/submissions/2178118070/) | |
