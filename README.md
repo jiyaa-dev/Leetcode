@@ -50,6 +50,7 @@
 | 206 | Reverse Linked List | [Submission](https://leetcode.com/problems/reverse-linked-list/submissions/2152199589/) |
 | 143 | Reorder List | [Submission](https://leetcode.com/problems/reorder-list/submissions/2152273373/) |
 | 3217 | Delete Nodes From Linked List Present in Array | [Submission](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/submissions/2153196548/) |
+| 86 | Partition List | [Submission](https://leetcode.com/problems/partition-list/submissions/2180410645/) |
 
 ## Two Pointers
 
@@ -93,5 +94,4 @@
 | 350 | Intersection of Two Arrays II | [Submission](https://leetcode.com/problems/intersection-of-two-arrays-ii/submissions/2178118070/) | |
 | 137 | Single Number II | [Submission](https://leetcode.com/problems/single-number-ii/submissions/2178981674/) | |
 | 215 | Kth Largest Element in an Array | [Submission](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/2179803292/) | [Submission2](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/2179816614/) | |
-
-
+| 162 | Find Peak Element | [Submission](https://leetcode.com/problems/find-peak-element/submissions/2180393998/) | |
