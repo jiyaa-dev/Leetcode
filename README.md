@@ -52,6 +52,7 @@
 | 3217 | Delete Nodes From Linked List Present in Array | [Submission](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/submissions/2153196548/) |
 | 86 | Partition List | [Submission](https://leetcode.com/problems/partition-list/submissions/2180410645/) |
 | 148 | Sort List | [Submission](https://leetcode.com/problems/sort-list/submissions/2181604410/) |
+| 92 | Reverse Linked List II | [Submission](https://leetcode.com/problems/reverse-linked-list-ii/submissions/2182386861/) |
 
 ## Two Pointers
 
