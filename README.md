@@ -99,3 +99,4 @@
 | 162 | Find Peak Element | [Submission](https://leetcode.com/problems/find-peak-element/submissions/2180393998/) | |
 | 34 | Find First and Last Position of Element in Sorted Array | [Submission](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/2183238173/) | |
 | 184 | Department Highest Salary | [Submission](https://leetcode.com/problems/department-highest-salary/submissions/2184888856/) | |
+| 1341 | Movie Rating | [Submission](https://leetcode.com/problems/movie-rating/submissions/2187170400/) | |
