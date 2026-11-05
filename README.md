@@ -102,3 +102,4 @@
 | 184 | Department Highest Salary | [Submission](https://leetcode.com/problems/department-highest-salary/submissions/2184888856/) | |
 | 1341 | Movie Rating | [Submission](https://leetcode.com/problems/movie-rating/submissions/2187170400/) | |
 | 180 | Consecutive Numbers | [Submission](https://leetcode.com/problems/consecutive-numbers/submissions/2189535093/) | |
+| 1141 | User Activity for the Past 30 Days I | [Submission](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/submissions/2190283810/) | |
