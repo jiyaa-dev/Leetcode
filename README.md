@@ -104,3 +104,4 @@
 | 180 | Consecutive Numbers | [Submission](https://leetcode.com/problems/consecutive-numbers/submissions/2189535093/) | |
 | 1141 | User Activity for the Past 30 Days I | [Submission](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/submissions/2190283810/) | |
 | 1321 | Restaurant Growth | [Submission](https://leetcode.com/problems/restaurant-growth/submissions/2190788072/) | |
+| 194 | Transpose File | [Submission](https://leetcode.com/problems/transpose-file/submissions/2191994642/) | |
