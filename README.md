@@ -105,3 +105,4 @@
 | 1141 | User Activity for the Past 30 Days I | [Submission](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/submissions/2190283810/) | |
 | 1321 | Restaurant Growth | [Submission](https://leetcode.com/problems/restaurant-growth/submissions/2190788072/) | |
 | 194 | Transpose File | [Submission](https://leetcode.com/problems/transpose-file/submissions/2191994642/) | |
+| 3374 | First Letter Capitalization II | [Submission](https://leetcode.com/problems/first-letter-capitalization-ii/submissions/2192678223/) | |
