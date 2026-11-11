@@ -107,3 +107,4 @@
 | 194 | Transpose File | [Submission](https://leetcode.com/problems/transpose-file/submissions/2191994642/) | |
 | 3374 | First Letter Capitalization II | [Submission](https://leetcode.com/problems/first-letter-capitalization-ii/submissions/2192678223/) | |
 | 3693 | Climbing Stairs II | [Submission](https://leetcode.com/problems/climbing-stairs-ii/submissions/2193328336/?envType=daily-question&envId=2026-11-10) | |
+| 1978 | Employees Whose Manager Left the Company | [Submission](https://leetcode.com/problems/employees-whose-manager-left-the-company/submissions/2194000949/) | |
