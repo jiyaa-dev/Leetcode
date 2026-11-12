@@ -108,3 +108,4 @@
 | 3374 | First Letter Capitalization II | [Submission](https://leetcode.com/problems/first-letter-capitalization-ii/submissions/2192678223/) | |
 | 3693 | Climbing Stairs II | [Submission](https://leetcode.com/problems/climbing-stairs-ii/submissions/2193328336/?envType=daily-question&envId=2026-11-10) | |
 | 1978 | Employees Whose Manager Left the Company | [Submission](https://leetcode.com/problems/employees-whose-manager-left-the-company/submissions/2194000949/) | |
+| 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray | [Submission](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/submissions/2194787709/?envType=daily-question&envId=2026-11-12) | |
